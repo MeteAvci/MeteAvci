@@ -2,7 +2,7 @@
 
 **AI/ML Developer · Computational Linguist · Prompt Engineer · Turkish Translator**
 
-I build things at the intersection of language, AI and automation — from LLM pipelines and data tooling to full-stack web and e-commerce infrastructure.
+I work on language, AI and automation: LLM-based tools, data workflows, and the boring stuff people don’t want to do by hand.
 
 - 🔭 Currently
   - Prompt Engineer at **Twinciti AI** – designing and testing LLM workflows.
