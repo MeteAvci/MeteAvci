@@ -78,32 +78,32 @@ If you’re doing anything interesting at the intersection of AI, language, auto
 
 **Bilgisayarlı Dilbilimci · Komut Mühendisi · Türkçe Çevirmen · Veri Bilimci · YZ/ML Geliştiricisi**
 
-Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar, veri iş akışları ve insanların elle yapmaya üşendiği sıkıcı işleri kodla çözmeyi seviyorum.
+Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar, veri iş akışları ve insanların elle yapmak istemediği sıkıcı işlerin otomasyonu üzerine yoğunlaşıyorum.
 
-- 🔭 Şu anda
-  - **Twinciti AI**'da Prompt Engineer – LLM iş akışlarını tasarlıyor ve test ediyorum.
-  - **Me the Tech** kurucusuyum – özel yapay zekâ araçları, otomasyonlar ve danışmanlık yapıyorum.
-  - **Minimalisfy**'de Kurucu Ortak & E-ticaret Direktörü – yapay zekâ odaklı bir e-ticaret markası yürütüyorum.
-  - **Center for Hybrid Intelligence (Aarhus University)** için UX Tester – yeni yapay zekâ araştırma platformlarını test ediyorum.
+- 🔭 Şu anki çalışmalarım
+  - **Twinciti AI**'da Komut Mühendisi (Prompt Engineer) – LLM iş akışları tasarlıyor ve test ediyorum.
+  - **Me the Tech** kurucusu – kişiye özel yapay zekâ araçları ve otomasyonlar geliştiriyor, danışmanlık hizmeti sunuyorum.
+  - **Minimalisfy**'de Kurucu Ortak & E-ticaret Direktörü – yapay zekâ odaklı bir e-ticaret markası yönetiyorum.
+  - **Center for Hybrid Intelligence (Aarhus University)** için UX Test Uzmanı – yeni yapay zekâ araştırma platformlarını test ediyorum.
 
-- 🎯 Çalışmaktan hoşlandığım alanlar
-  - LLM prompt ve iş akışı tasarımı
-  - Doğal dil işleme ve hesaplamalı dilbilim (Türkçe & İngilizce)
+- 🎯 Çalışmaktan keyif aldığım alanlar
+  - LLM komut ve iş akışı tasarımı
+  - Doğal dil işleme ve bilgisayarlı dilbilim (Türkçe & İngilizce)
   - Yapay zekâ destekli e-ticaret ve akıllı otomasyon
   - Veri analizi ve görselleştirme
-  - EN ↔ TR çeviri ve yerelleştirme
+  - Çeviri ve yerelleştirme (EN ↔ TR)
 
 ---
 
-## 🧠 Teknoloji yığını
+## 🧠 Teknoloji Yetkinliklerim
 
-- **Diller**  
+- **Programlama Dilleri**  
   Python · JavaScript
 
 - **Framework & Çalışma Ortamı**  
   Node.js · React
 
-- **YZ / ML & Veri**  
+- **Yapay Zekâ / ML & Veri**  
   PyTorch · scikit-learn · Hugging Face · spaCy · NLTK · pandas · NumPy · Jupyter Notebook
 
 - **Web & Ürün**  
@@ -114,7 +114,7 @@ Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar
 
 ---
 
-## 🌍 Seçili işler & bağlantılar
+## 🌍 Seçilmiş İşler & Bağlantılar
 
 - 🧩 **Me the Tech** – YZ ve otomasyon stüdyosu  
   https://www.methetech.com
@@ -122,26 +122,25 @@ Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar
 - 🛒 **Minimalisfy** – YZ odaklı e-ticaret markası  
   https://www.minimalisfy.com
 
-- 👨‍💻 **Upwork** – 12+ yıl, 65+ iş, 5★ ortalama  
+- 👨‍💻 **Upwork** – 12+ yıl, 65+ proje, 5★ değerlendirme  
   https://www.upwork.com/freelancers/~01242bafcf7a37eb44
 
-- 📚 **Vikipedi katkıları** – *MeteMetheus* kullanıcı adıyla  
+- 📚 **Vikipedi Katkıları** – *MeteMetheus* kullanıcı adıyla  
   https://en.wikipedia.org/wiki/User:MeteMetheus
 
 ---
 
-## 🔐 Güvenlik & araştırma
+## 🔐 Güvenlik & Araştırma
 
-Kullandığım araçlarda ara sıra güvenlik sorunları arayıp, bulduklarımı sorumlu bir şekilde raporluyorum.  
-Eğer dil, yapay zeka, otomasyon veya güvenliğin kesiştiği bir şey yapıyorsan, iletişime geçebilirsin.
+Kullandığım araçlarda zaman zaman güvenlik açıklarını araştırır ve bulgularımı sorumlu bir şekilde raporlarım.  
+Eğer yapay zekâ, dil, otomasyon veya güvenliğin kesişiminde ilginç çalışmalar yürütüyorsanız, iletişime geçmekten çekinmeyin.
 
 ---
 
 ## 📫 İletişim
 
-- Web sitesi: https://www.methetech.com  
+- Web Sitesi: https://www.methetech.com  
 - X / Twitter: https://x.com/HorizonHacker  
 - LinkedIn: https://www.linkedin.com/in/meteee/  
 - E-posta: **metheus@yandex.com**
-
 </details>
