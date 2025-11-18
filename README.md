@@ -56,7 +56,7 @@ I work on language, AI and automation: LLM-based tools, data workflows, and the 
 
 ## 🔐 Security & research
 
-I occasionally hunt for security issues in the tools I use (like Weblate) and report them responsibly.  
+I occasionally hunt for security issues in the tools I use and report them responsibly.  
 If you’re doing anything interesting at the intersection of AI, language, automation or security, feel free to reach out.
 
 ---
@@ -72,7 +72,7 @@ If you’re doing anything interesting at the intersection of AI, language, auto
 ---
 
 <details>
-  <summary>🇹🇷 Türkçe</summary>
+  <summary><strong>🇹🇷 Tam Türkçe sürümü okumak için buraya tıkla</strong></summary>
 
 # Merhaba, ben Mete 👋
 
@@ -132,8 +132,8 @@ Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar
 
 ## 🔐 Güvenlik & araştırma
 
-Kullandığım araçlarda (örneğin Weblate gibi) ara sıra güvenlik sorunları arayıp, bulduklarımı sorumlu bir şekilde raporluyorum.  
-Eğer dil, yapay zekâ, otomasyon veya güvenliğin kesiştiği bir şey yapıyorsan, iletişime geçebilirsin.
+Kullandığım araçlarda ara sıra güvenlik sorunları arayıp, bulduklarımı sorumlu bir şekilde raporluyorum.  
+Eğer dil, yapay zeka, otomasyon veya güvenliğin kesiştiği bir şey yapıyorsan, iletişime geçebilirsin.
 
 ---
 
