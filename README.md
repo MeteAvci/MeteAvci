@@ -67,3 +67,81 @@ If you’re doing anything interesting at the intersection of AI, language, auto
 - X / Twitter: https://x.com/HorizonHacker  
 - LinkedIn: https://www.linkedin.com/in/meteee/  
 - Email: **metheus@yandex.com**
+
+
+---
+
+<details>
+  <summary>🇹🇷 Türkçe</summary>
+
+# Merhaba, ben Mete 👋
+
+**Bilgisayarlı Dilbilimci · Komut Mühendisi · Türkçe Çevirmen · Veri Bilimci · YZ/ML Geliştiricisi**
+
+Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar, veri iş akışları ve insanların elle yapmaya üşendiği sıkıcı işleri kodla çözmeyi seviyorum.
+
+- 🔭 Şu anda
+  - **Twinciti AI**'da Prompt Engineer – LLM iş akışlarını tasarlıyor ve test ediyorum.
+  - **Me the Tech** kurucusuyum – özel yapay zekâ araçları, otomasyonlar ve danışmanlık yapıyorum.
+  - **Minimalisfy**'de Kurucu Ortak & E-ticaret Direktörü – yapay zekâ odaklı bir e-ticaret markası yürütüyorum.
+  - **Center for Hybrid Intelligence (Aarhus University)** için UX Tester – yeni yapay zekâ araştırma platformlarını test ediyorum.
+
+- 🎯 Çalışmaktan hoşlandığım alanlar
+  - LLM prompt ve iş akışı tasarımı
+  - Doğal dil işleme ve hesaplamalı dilbilim (Türkçe & İngilizce)
+  - Yapay zekâ destekli e-ticaret ve akıllı otomasyon
+  - Veri analizi ve görselleştirme
+  - EN ↔ TR çeviri ve yerelleştirme
+
+---
+
+## 🧠 Teknoloji yığını
+
+- **Diller**  
+  Python · JavaScript
+
+- **Framework & Çalışma Ortamı**  
+  Node.js · React
+
+- **YZ / ML & Veri**  
+  PyTorch · scikit-learn · Hugging Face · spaCy · NLTK · pandas · NumPy · Jupyter Notebook
+
+- **Web & Ürün**  
+  HTML5 · CSS3 · REST API'ler · Full-stack web geliştirme · UX / UI testleri
+
+- **Araçlar**  
+  Git & GitHub · VS Code · PyCharm · WebStorm · Adobe Creative Cloud · MemoQ · SDL Trados
+
+---
+
+## 🌍 Seçili işler & bağlantılar
+
+- 🧩 **Me the Tech** – YZ ve otomasyon stüdyosu  
+  https://www.methetech.com
+
+- 🛒 **Minimalisfy** – YZ odaklı e-ticaret markası  
+  https://www.minimalisfy.com
+
+- 👨‍💻 **Upwork** – 12+ yıl, 65+ iş, 5★ ortalama  
+  https://www.upwork.com/freelancers/~01242bafcf7a37eb44
+
+- 📚 **Vikipedi katkıları** – *MeteMetheus* kullanıcı adıyla  
+  https://en.wikipedia.org/wiki/User:MeteMetheus
+
+---
+
+## 🔐 Güvenlik & araştırma
+
+Kullandığım araçlarda (örneğin Weblate gibi) ara sıra güvenlik sorunları arayıp, bulduklarımı sorumlu bir şekilde raporluyorum.  
+Eğer dil, yapay zekâ, otomasyon veya güvenliğin kesiştiği bir şey yapıyorsan, iletişime geçebilirsin.
+
+---
+
+## 📫 İletişim
+
+- Web sitesi: https://www.methetech.com  
+- X / Twitter: https://x.com/HorizonHacker  
+- LinkedIn: https://www.linkedin.com/in/meteee/  
+- E-posta: **metheus@yandex.com**
+
+</details>
