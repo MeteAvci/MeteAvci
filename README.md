@@ -5,10 +5,10 @@
 I work on language, AI and automation: LLM-based tools, data workflows, and the boring stuff people don’t want to do by hand.
 
 - 🔭 Currently
-  - Prompt Engineer at **Twinciti AI** – designing and testing LLM workflows.
-  - Founder of **Me the Tech** – custom AI tools, automations and consulting.
-  - Co-founder & E-commerce Director of **Minimalisfy** – AI-driven e-commerce brand.
-  - UX Tester at **Center for Hybrid Intelligence (Aarhus University)** – testing new AI research platforms.
+  - Prompt Engineer at **Twinciti AI** - designing and testing LLM workflows.
+  - Founder of **Me the Tech** - custom AI tools, automations and consulting.
+  - Co-founder & E-commerce Director of **Minimalisfy** - AI-driven e-commerce brand.
+  - UX Tester at **Center for Hybrid Intelligence (Aarhus University)** - testing and helping debug for education platform.
 
 - 🎯 What I like working on
   - LLM prompt & workflow design
@@ -40,16 +40,16 @@ I work on language, AI and automation: LLM-based tools, data workflows, and the 
 
 ## 🌍 Selected work & links
 
-- 🧩 **Me the Tech** – AI & automation studio  
+- 🧩 **Me the Tech** - AI & automation studio  
   https://www.methetech.com
 
-- 🛒 **Minimalisfy** – AI-driven e-commerce brand  
+- 🛒 **Minimalisfy** - AI-driven e-commerce brand  
   https://www.minimalisfy.com
 
-- 👨‍💻 **Upwork** – 12+ years, 65+ jobs, 5★ rating  
+- 👨‍💻 **Upwork** - 12+ years, 65+ jobs, 5★ rating  
   https://www.upwork.com/freelancers/~01242bafcf7a37eb44
 
-- 📚 **Wikipedia contributions** – as *MeteMetheus*  
+- 📚 **Wikipedia contributions** - as *MeteMetheus*  
   https://en.wikipedia.org/wiki/User:MeteMetheus
 
 ---
@@ -81,10 +81,10 @@ If you’re doing anything interesting at the intersection of AI, language, auto
 Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar, veri iş akışları ve insanların elle yapmak istemediği sıkıcı işlerin otomasyonu üzerine yoğunlaşıyorum.
 
 - 🔭 Şu anki çalışmalarım
-  - **Twinciti AI**'da Komut Mühendisi (Prompt Engineer) – LLM iş akışları tasarlıyor ve test ediyorum.
-  - **Me the Tech** kurucusu – kişiye özel yapay zekâ araçları ve otomasyonlar geliştiriyor, danışmanlık hizmeti sunuyorum.
-  - **Minimalisfy**'de Kurucu Ortak & E-ticaret Direktörü – yapay zekâ odaklı bir e-ticaret markası yönetiyorum.
-  - **Center for Hybrid Intelligence (Aarhus University)** için UX Test Uzmanı – yeni yapay zekâ araştırma platformlarını test ediyorum.
+  - **Twinciti AI**'da Komut Mühendisi (Prompt Engineer) - LLM iş akışları tasarlıyor ve test ediyorum.
+  - **Me the Tech** kurucusu - kişiye özel yapay zekâ araçları ve otomasyonlar geliştiriyor, danışmanlık hizmeti sunuyorum.
+  - **Minimalisfy**'de Kurucu Ortak & E-ticaret Direktörü - yapay zekâ odaklı bir e-ticaret markası yönetiyorum.
+  - **Center for Hybrid Intelligence (Aarhus University)** için UX Test Uzmanı - eğitim platformunun testlerini gerçekleştirerek hata ayıklama sürecine yardımcı oluyorum.
 
 - 🎯 Çalışmaktan keyif aldığım alanlar
   - LLM komut ve iş akışı tasarımı
@@ -116,16 +116,16 @@ Dil, otomasyon ve yapay zeka alanlarında çalışıyorum: LLM tabanlı araçlar
 
 ## 🌍 Seçilmiş İşler & Bağlantılar
 
-- 🧩 **Me the Tech** – YZ ve otomasyon stüdyosu  
+- 🧩 **Me the Tech** - YZ ve otomasyon stüdyosu  
   https://www.methetech.com
 
-- 🛒 **Minimalisfy** – YZ odaklı e-ticaret markası  
+- 🛒 **Minimalisfy** - YZ odaklı e-ticaret markası  
   https://www.minimalisfy.com
 
-- 👨‍💻 **Upwork** – 12+ yıl, 65+ proje, 5★ değerlendirme  
+- 👨‍💻 **Upwork** - 12+ yıl, 65+ proje, 5★ değerlendirme  
   https://www.upwork.com/freelancers/~01242bafcf7a37eb44
 
-- 📚 **Vikipedi Katkıları** – *MeteMetheus* kullanıcı adıyla  
+- 📚 **Vikipedi Katkıları** - *MeteMetheus* kullanıcı adıyla  
   https://en.wikipedia.org/wiki/User:MeteMetheus
 
 ---
